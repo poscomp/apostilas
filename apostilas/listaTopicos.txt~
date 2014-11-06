@@ -1,0 +1,77 @@
+>>M11matematica - Álgebra Linear 
+
+>>M21matematica - ANALISE COMBINATORIA: Distribuição, permutações, combinações, Funções Geradoras Ordinárias e Exponenciais. Princípio da Inclusão e Exclusão
+>>M22matematica - ANALISE COMBINATORIA: Enumeração de partições, Grafos, Árvores e Redes. Enumeração por recursão. Permutações com posições restritas
+
+>>M31matematica - CDI: Limites, continuidade, derivadas (CDI 1)
+>>M32matematica - CDI: Integrais (CDI 1), Métodos de Integração (Cálculo Numérico: Integração aproximada, trapézios, Simpson e generalizadas), Matrizes Jacobianas, Multiplicadores de Lagrange
+>>M33matematica - CDI: Funções de n variáveis, limites e continuidade, gradiente, integração, mudança de coordenadas em integrais e integral de linha
+
+>>M41matematica - GEOMETRIA ANALITICA 
+
+>>M51matematica - LOGICA MATEMATICA (1th)
+
+>>M61matematica - MATEMATICA DISCRETA: Falta
+>>M62matematica - MATEMATICA DISCRETA: Falta
+
+>>M71matematica - PROBABILIDADE E ESTATISTICA: Falta
+>>M72matematica - PROBABILIDADE E ESTATISTICA: Falta
+
+>>C11fundamentosDaComputacao - ANALISE DE ALGORITMOS: Análise/notação assinótica
+>>C12fundamentosDaComputacao - ANALISE DE ALGORITMOS: Análise de algoritmos iterativos, recursivos (e relações de recorrência para análise de algoritmos recursivos)
+>>C13fundamentosDaComputacao - ANALISE DE ALGORITMOS: Tese de Church, problemas indecidíveis, teoria da incompletude de godel, classes de problemas P NP NP Completo e NP-Difícil
+
+>>C21fundamentosDaComputacao - ALGORITMOS E ESTRUTURA DE DADOS: Recusividade, Modularidade e Abstração
+>>C22fundamentosDaComputacao - ALGORITMOS E ESTRUTURA DE DADOS: Estrutura de dados básicas: Listas Ordenadas, Listas Encadeadas, Pilha e Filas. Árvores Binárias, de busca, balaceadas; tabelas hash
+>>C23fundamentosDaComputacao - ALGORITMOS E ESTRUTURA DE DADOS: Algortimos de Pesquisa e Ordenação, Garbage Collection
+>>C24fundamentosDaComputacao - ALGORITMOS E ESTRUTURA DE DADOS: Método da força bruta, Pesquisa Exaustiva, Algoritmo Guloso, Divisão e Conquista, Backtracking e Heurísticas
+
+>>C31fundamentosDaComputacao - ARQUITETURA E ORGANIZACAO DE COMPUTADORES
+
+>>C41fundamentosDaComputacao - CIRCUITOS DIGITAIS
+
+>>C51fundamentosDaComputacao - LINGUAGENS DE PROGRAMACAO: Paradigmas de Linguagens de programação (Estruturado, OO, funcional)
+>>C52fundamentosDaComputacao - LINGUAGENS DE PROGRAMACAO: Teorema dos Tipos: Sistema de Tipos, Polimorfismo. Verificação e Inferência de Tipos
+
+>>C61fundamentosDaComputacao - LINGUAGENS FORMAIS, AUTOMATOS E COMPUTABILIDADE: AFD, AFND, Autômato de Pilha e Máquina de Turing
+>>C62fundamentosDaComputacao - LINGUAGENS FORMAIS, AUTOMATOS E COMPUTABILIDADE: Espressões regulares, gramáticas, Hierarquia de Chomsky
+
+>>C71fundamentosDaComputacao - ORGANIZACAO DE ARQUIVOS E DADOS: Matriz de Segurança e Auditoria de Sistemas (UTFPR)
+
+>>C81fundamentosDaComputacao - SISTEMAS OPERACIONAIS: Memória (SO UTFPR)
+>>C82fundamentosDaComputacao - SISTEMAS OPERACIONAIS: Processador (SO UTFPR)
+	
+>>C91fundamentosDaComputacao - TEORIA DOS GRAFOS: Conceitual
+>>C91fundamentosDaComputacao - TEORIA DOS GRAFOS: Busca em Largura, profundidade, algoritmos de menor caminho, árvore geradora
+	
+>>T11tecnologiaDaComputacao - BANCO DE DADOS: Modelo e Projeto de Banco de Dados (MER, MR e MF)
+>>T12tecnologiaDaComputacao - BANCO DE DADOS: Revisão SQL e BDD
+>>T13tecnologiaDaComputacao - BANCO DE DADOS: Arquitetura, Segurança, Integridade, Concorrência, Recuperação pós-falha e Gerenciamento de Transições
+
+>>T21tecnologiaDaComputacao - COMPILADORES: Análise léxica e sintática
+>>T22tecnologiaDaComputacao - COMPILADORES: Análise semântica e otimização de código
+
+>>T31tecnologiaDaComputacao - COMPUTACAO GRAFICA: Transformações Geométricas, Matrizes de Transformação
+>>T32tecnologiaDaComputacao - COMPUTACAO GRAFICA: Fontes de Luz, Remoção de Linhas e Superfícies Ocultas
+
+>>T41tecnologiaDaComputacao - ENGENHARIA DE SOFTWARE: Engenharia de Software 1 (UTFPR)
+>>T42tecnologiaDaComputacao - ENGENHARIA DE SOFTWARE: Engenharia de Software 2 (UTFPR)
+
+>>T51tecnologiaDaComputacao - INTELIGENCIA ARTIFICIAL: Agentes Inteligentes, Resolução de problemas com busca (Com informação e sem infomação)
+>>T52tecnologiaDaComputacao - INTELIGENCIA ARTIFICIAL: Representação do conhecimento
+>>T53tecnologiaDaComputacao - INTELIGENCIA ARTIFICIAL: RNA, Algortimos genéticos e alguns tópicos de Mineração de Dados
+
+>>T61tecnologiaDaComputacao - PROCESSAMENTO DE IMAGENS: Fundamentos, transformadas de imagens, segmentação e realce
+>>T62tecnologiaDaComputacao - PROCESSAMENTO DE IMAGENS: Compressão, noções de visão computacional e reconhecimento de padrões
+
+>>T71tecnologiaDaComputacao - REDES: Matriz Redes de Computadores 1 (UTFPR)
+>>T72tecnologiaDaComputacao - REDES: Matriz Redes de Computadores 2 (UTFPR)
+
+>>T81tecnologiaDaComputacao - SISTEMAS DISTRIBUIDOS: Problemas comuns na Computação distribuída
+>>T81tecnologiaDaComputacao - SISTEMAS DISTRIBUIDOS: Compartilhamento de informação e Sistemas Operacionais Distribuídos 
+	
+	
+	
+	T8 -  (6th)
+		T81. Problemas comuns na Computação distribuída 
+		T82. Compartilhamento de informação e Sistemas Operacionais Distribuídos 
