@@ -1,0 +1,78 @@
+M - MATEMATICA
+	M1 - ALGEBRA LINEAR (1th)
+		M11. Falta
+	M2 - ANALISE COMBINATORIA (1th)
+		M21. Distribuição, permutações, combinações, Funções Geradoras Ordinárias e Exponenciais. Princípio da Inclusão e Exclusão
+		M22. Enumeração de partições, Grafos, Árvores e Redes. Enumeração por recursão. Permutações com posições restritas
+	M3 - CALCULO DIFERENCIAL E INTEGRAL (2th)
+		M31. Limites, continuidade, derivadas (CDI 1)
+		M32. Integrais (CDI 1), Métodos de Integração (Cálculo Numérico: Integração aproximada, trapézios, Simpson e generalizadas), Matrizes Jacobianas, Multiplicadores de Lagrange.
+		M33. Funções de n variáveis, limites e continuidade, gradiente, integração, mudança de coordenadas em integrais e integral de linha.
+	M4 - GEOMETRIA ANALITICA (1th)
+		M41. Falta
+	M5 - LOGICA MATEMATICA (1th)
+		M51. Falta
+	M6 - MATEMATICA DISCRETA (5th)
+		M61. Falta
+		M62. Falta
+	M7 - PROBABILIDADE E ESTATISTICA (2th)
+		M71. Falta
+		M72. Falta
+C - FUNDAMENTOS DA COMPUTACAO
+	C1 - ANALISE DE ALGORITMOS (5th)
+		C11. Análise/notação assinótica
+		C12. Análise de algoritmos iterativos, recursivos (e relações de recorrência para análise de algoritmos recursivos)
+		C13. Tese de Church, problemas indecidíveis, teoria da incompletude de godel, classes de problemas P NP NP Completo e NP-Difícil
+	C2 - ALGORITMOS E ESTRUTURA DE DADOS (3th)
+		C21. Recusividade, Modularidade e Abstração
+		C22. Estrutura de dados básicas: Listas Ordenadas, Listas Encadeadas, Pilha e Filas. Árvores Binárias, de busca, balaceadas; tabelas hash
+		C23. Algortimos de Pesquisa e Ordenação, Garbage Collection.
+		C24. Método da força bruta, Pesquisa Exaustiva, Algoritmo Guloso, Divisão e Conquista, Backtracking e Heurísticas
+	C3 - ARQUITETURA E ORGANIZACAO DE COMPUTADORES (3th)
+		C31. Revisão de Arquitetura
+	C4 - CIRCUITOS DIGITAIS (4th)
+		C41. Conteúdo de Circuitos Digitais (UTFPR)
+	C5 - LINGUAGENS DE PROGRAMACAO (6th)
+		C51. Paradigmas de Linguagens de programação (Estruturado, OO, funcional)
+		C52. Teorema dos Tipos: Sistema de Tipos, Polimorfismo. Verificação e Inferência de Tipos
+	C6 - LINGUAGENS FORMAIS, AUTOMATOS E COMPUTABILIDADE (5th)
+		C61. AFD, AFND, Autômato de Pilha e Máquina de Turing
+		C62. Espressões regulares, gramáticas, Hierarquia de Chomsky
+	C7 - ORGANIZACAO DE ARQUIVOS E DADOS (6th)
+		C71. Matriz de Segurança e Auditoria de Sistemas (UTFPR)
+	C8 - SISTEMAS OPERACIONAIS (4th)
+		C81. Memória (UTFPR - SO)
+		C82. Processador (UTFPR - SO)
+	C9 - TECNICAS DE PROGRAMACAO (3th)
+		Não será feito.
+	CA1 - TEORIA DOS GRAFOS (4th)
+		CA11. Conceitual 
+		CA12. Busca em Largura, profundidade, algoritmos de menor caminho, árvore geradora
+T - TECNOLOGIA DA COMPUTACAO
+	T1 - BANCO DE DADOS (4th)
+		T11. Modelo e Projeto de Banco de Dados (MER, MR e MF)
+		T12. Revisão SQL, BDD
+		T13. Arquitetura, Segurança, Integridade, Concorrência, Recuperação pós-falha e Gerenciamento de Transições
+	T2 - COMPILADORES (5th)M71. Falta
+		T21. Análise léxica e sintática
+		T22. Análise semântica e otimização de código
+	T3 - COMPUTACAO GRAFICA (5th)
+		T31. Transformações Geométricas, Matrizes de Transformação
+		T32. Fontes de Luz, Remoção de Linhas e Superfícies Ocultas
+
+	T4 - ENGENHARIA DE SOFTWARE (6th)
+		T41. Engenharia de Software 1 (UTFPR)
+		T42. Engenharia de Software 2 (UTFPR)
+	T5 - INTELIGENCIA ARTIFICIAL (5th)
+		T51. Agentes Inteligentes, Resolução de problemas com busca (Com informação e sem infomação)
+		T52. Representação do conhecimento
+		T53. RNA, Algortimos genéticos e alguns tópicos de Mineração de Dados
+	T6 - PROCESSAMENTO DE IMAGENS (6th)
+		T61. Fundamentos, transformadas de imagens, segmentação e realce
+		T62. Compressão, noções de visão computacional e reconhecimento de padrões
+	T7 - REDES DE COMPUTADORES (4th)
+		T71. Matriz Redes de Computadores 1 (UTFPR)
+		T72. Matriz Redes de Computadores 2 (UTFPR)
+	T8 - SISTEMAS DISTRIBUIDOS (6th)
+		T81. Problemas comuns na Computação distribuída 
+		T82. Compartilhamento de informação e Sistemas Operacionais Distribuídos 
