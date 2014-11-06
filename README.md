@@ -10,7 +10,7 @@ Para adicionar apostilas a esta pasta, utilize o seguinte padrão:
 <br>Por exemplo: **M11matematica.pdf**</br>
 <br></br>
 <br></br>
-<br>¹_Acesse os códigos_ <a href="https://github.com/poscomp/apostilas/blob/master/listaDeConteudos.txt">_aqui_</a>.</br>
+<br>¹_Acesse os códigos_ <a href="https://github.com/poscomp/apostilas/blob/master/apostilas/listaTopicos.txt">_aqui_</a>.</br>
 <br>²_As subáreas são: matematica, fundamentosDaComputacao ou tecnologiaDaComputacao._</br>
 <br></br>
 <br>Obrigado! :)</br>
